@@ -24,6 +24,8 @@ I²S interfaces with DMA (sharing pins with GPIO)
 UART on dedicated pins, plus a transmit-only UART can be enabled on GPIO2
 10-bit ADC (successive approximation ADC)
 
-![ESP8266_12X](https://user-images.githubusercontent.com/29681734/147874753-871c6064-a944-4ae8-b8fb-3b10c9bb4fb6.jpg)
 ![NodeMCU_V2_v2](https://user-images.githubusercontent.com/29681734/147874755-91785718-a1f0-41d8-b345-685056e4019f.png)
+
+![ESP8266_12X](https://user-images.githubusercontent.com/29681734/147874753-871c6064-a944-4ae8-b8fb-3b10c9bb4fb6.jpg)
+
 ![ESP8266_01X](https://user-images.githubusercontent.com/29681734/147874952-4b5d31ff-afb3-4c76-8449-ae75fb337197.jpg)
